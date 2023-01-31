@@ -8,7 +8,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2ppZXhpLmJ1bGlzaXRlLnRvcC90dmxpdmUudHh0"
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21xbHIvdHZib3gtbGl2ZXMvbWFpbi90dmxpdmUudHh0"
                     ]
                 }
             ]
