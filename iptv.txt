@@ -1,7 +1,19 @@
 {
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "spider": "http://jiexi.bulisite.top/209.jar;md5;18D26913107F18900630BF4CB1553ADB",
-    "lives": [],
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21xbHIvdHZib3gtbGl2ZXMvbWFpbi90dmxpdmUudHh0"
+                    ]
+                }
+            ]
+        }
+    ],
     "sites": [
         {
             "key": "csp_77",
